@@ -169,12 +169,12 @@
 
 // 3)spread:-
 
-let src={
-    a:10,
-    b:20
-}
+// let src={
+//     a:10,
+//     b:20
+// }
 
-let dest={...src}
+// let dest={...src}
 
-console.log(dest);
+// console.log(dest);
 
